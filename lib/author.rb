@@ -10,3 +10,4 @@ class Author
   
   def add_post(post)
     
+    
