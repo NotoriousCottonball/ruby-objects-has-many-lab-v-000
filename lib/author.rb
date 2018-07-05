@@ -8,5 +8,5 @@ class Author
     @post_count = []
   end 
   
-  
+  def add_post(post)
     
